@@ -8,6 +8,7 @@ Next, the game shows the next colour (red), the user has to remember the sequenc
 If the user messes up the sequence, then the game ends.
 
 ## Live Demo
-
+https://simon-game-jquery-md.netlify.app/
 
 ## Final Output
+![image](https://user-images.githubusercontent.com/98680454/210768061-9c15d861-f417-4809-8796-62123edaddc7.png)
